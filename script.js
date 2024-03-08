@@ -24,7 +24,7 @@ async function initialize() {
 
   console.log(editor);
 
-  await editor.assetManager.addFromPath("https://rio-assets.s3.eu-west-2.amazonaws.com/tags-pmat/textPlane-png-transparent.glb");
+  await editor.assetManager.addFromPath("https://rio-assets.s3.eu-west-2.amazonaws.com/tags-pmat/textPlane-png-transparent+(1).glb");
 
   // add model manager
 
